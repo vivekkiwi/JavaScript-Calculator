@@ -1,3 +1,13 @@
+MADE BY : - VIVEK KUMAR
+ID      : - 16103096
+SEMESTER : - 3
+YEAR    : - 2
+COLLEGE : - NIT JALANDHAR
+
+PROJECT NAME : - JAVASCRIPT CALCULATOR
+
+PROJECT DESCRIPTION :
+
 # JavaScript-Calculator
 Download the code along with the jpeg file for display background rest all simple functioning of calculator.
 
