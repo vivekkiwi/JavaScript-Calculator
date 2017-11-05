@@ -1,2 +1,2 @@
 # JavaScript-Calculator
-all fine
+Download the code along with the jpeg file for display background rest all simple functioning of calculator.
