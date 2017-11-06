@@ -19,6 +19,12 @@ CE means clearing whole screen at once.
 C means clearing a single latest character.
 Keys : 0,1,2,3,4,5,6,7,8,9.
 
+INPUTS :
+
+1. Inputs are taken from number keys and operators from num-pad keys only.
+2. Enter key of numpad is used to get the result of the input value.
+3. Backspace key can be used to erase a single letter.
+
 FEATURES :
 
 1. Exception Handling when divided by Zero.
