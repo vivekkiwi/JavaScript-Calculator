@@ -19,4 +19,11 @@ CE means clearing whole screen at once.
 C means clearing a single latest character.
 Keys : 0,1,2,3,4,5,6,7,8,9.
 
+FEATURES :
+
+1. Exception Handling when divided by Zero.
+2. Keyboard functionality after once pressing to the text field.
+3. One time input range of 30 characters including operators and operands.
+4. Statement validity check.
+
 We can enter the text either from mouse click directly clicking at buttons and otherwise after clicking on the text area followed by the input from keyboard.
