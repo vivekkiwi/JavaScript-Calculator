@@ -28,9 +28,18 @@ INPUTS :
 
 FEATURES :
 
-1. Exception Handling when divided by Zero.
+1. Exception Handling when divided by Zero and NaN.
 2. Keyboard functionality after once pressing to the text field.
 3. One time input range of 30 characters including operators and operands.
 4. Statement validity check.
+5. User output display choice.
+
+FUNNCTOINING :
+
+1. Input value is to be entered either by keyboard or button click followed by clickinhg "=" or "Enter" press.
+2. sin, cos, tan, log, sqrt, and approx works on singlle display input but not in use with expression form.
+3. After each click of "=" or "Enter" press user will get an option that whether he wants to display the result or want to discard the result by pressing 1 or 0;
+ i.> On pressing 1, the result will be displayed and we can perform further computations after it.
+ ii.> On pressing 0, the screen will be clear n result will be discarded.
 
 We can enter the text either from mouse click directly clicking at buttons and otherwise after clicking on the text area followed by the input from keyboard.
